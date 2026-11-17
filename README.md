@@ -102,6 +102,7 @@ Websites and tools for discovering career opportunities, freelance gigs, and hir
 - [FoundRole](https://foundrole.com/) - AI-powered job search platform and job application tracker for knowledge workers.
 - [Jobless](https://www.jobless.dev) - AI-powered job search with 1M+ listings, JobPosting schema, and free matching.
 - [PursuitCI](https://www.pursuitci.com/jobs) - Career intelligence and job search platform featuring 500,000+ live US listings by role, with built-in resume tailoring and ATS tools.
+- - [RemoteFrom](https://remotefrom.app/?s=list-gh-ajb) - Chrome extension that badges LinkedIn job cards with whether your country can apply (EMEA, EU only, US only) and checks the full description for location limits and UK/Netherlands visa-sponsor register matches. Free rule-based checks; optional paid AI.
 
 ## AI
 
